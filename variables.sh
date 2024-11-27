@@ -22,15 +22,13 @@ read username # user input
 
 echo "You entered $username"
 
-echo "The characters in $0 are:  $1 $2"
-
 '
 Output:
-/variable.sh harshit sahu
+chmod +x ./variable.sh
+/variable.sh 
 Name is babitaji, and date is wed Nov 24 05:38:34 UTC 2024
 enter the name: 
 Kunal
 You entered Kunal
-The chara
 
 '
