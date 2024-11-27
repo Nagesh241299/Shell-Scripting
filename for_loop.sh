@@ -19,4 +19,6 @@ Output:
 ls
 Harshit1 Harshit2 Harshit3 Harshit4 Harshit5
 
+If you want to delete
+rm -r Har*
 '
