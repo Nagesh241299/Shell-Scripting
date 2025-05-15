@@ -29,7 +29,7 @@ comment
 This is also an method of multi-line comment
 '
 
-name="babitaji" # variable declaration
+name="Nagesh" # variable declaration
 
 echo "Name is $name, and date is $(date)" # here variable is allocated and command `date` is runned 
 
